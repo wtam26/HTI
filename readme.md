@@ -111,6 +111,7 @@ Before you get started with wordpress, make sure you have a server. I am using M
 2. unzip and move the unzipped folder titled 'wordpress' to your htdocs directory
 NOTE: I am using MAMP on a mac. my htdocs is in Applications/MAMP/
 3. fork this repository and download it then unzip
-4. move the unzipped folder to ⁨htdocs⁩/⁨wordpress⁩/wp-content⁩/⁨themes⁩
-5. start your server and navigate to the server startup page
-6. follow the wordpress installation
+4. open the unzipped HTI-master folder and navigate to  ⁨HTI-master⁩/⁨wp-content⁩/themes⁩ and locate custom-hti
+5. move the custom-hti folder to ⁨htdocs⁩/⁨wordpress⁩/wp-content⁩/⁨themes⁩
+6. start your server and navigate to the server startup page
+7. follow the wordpress installation
