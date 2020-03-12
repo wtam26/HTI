@@ -6,7 +6,7 @@
 			</div>
 			<div class="col-md-8">
 				<h2>Historic Takoma, Inc</h2>
-				<p>Historic Takoma, Inc. Celebrates 35 years of Service to the Community 1979 - 2015 </p>
+				<p>Historic Takoma, Inc. Celebrating Service to the Community <br> Since 1979 </p>
 			</div>
 		</div>
 	</div>

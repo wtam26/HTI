@@ -121,8 +121,25 @@ body {
     justify-content: center;
 }
 
+.sub-menu {
+	display: none;
+    position: absolute;
+    background-color: #005039;
+    z-index: 999;
+    padding: 1%;
+    margin-top: 1%;
+}
 
+ul li:hover > ul,
+ul li:focus-within > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+  margin-top: 1%;
+}
 
-
-
-
+.sub-menu > .menu-item > .sub-menu {
+	padding: 4%;
+    margin-top: 4%;
+}
