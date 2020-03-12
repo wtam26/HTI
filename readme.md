@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta name="viewport" content="width=device-width" />
@@ -96,3 +96,21 @@
 
 </body>
 </html>
+ -->
+
+# Prerequisites
+Before you get started with wordpress, make sure you have a server. I am using MAMP and all the steps below will be MAMP related.
+1. Download and install [MAMP](https://www.mamp.info/en/downloads/) 
+2. Start MAMP and start server and click Open WebStart Page
+3. on the WebStart page, click Tools then click PHPMYADMIN
+4. on PHPMYADMIN, create a new database and keep note of the following information: database name, username, password, and host.
+
+
+# Getting Started
+1. download [wordpress](https://wordpress.org/download/)
+2. unzip and move the unzipped folder titled 'wordpress' to your htdocs directory
+NOTE: I am using MAMP on a mac. my htdocs is in Applications/MAMP/
+3. fork this repository and download it then unzip
+4. move the unzipped folder to ⁨htdocs⁩/⁨wordpress⁩/wp-content⁩/⁨themes⁩
+5. start your server and navigate to the server startup page
+6. follow the wordpress installation
