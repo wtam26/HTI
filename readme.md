@@ -99,7 +99,7 @@
  -->
 
 # Prerequisites
-Before you get started with wordpress, make sure you have a server. I am using MAMP and all the steps below will be MAMP related.
+Before you get started with wordpress, make sure you have a server. I am using MAMP and all the steps below will be MAMP-specific.
 1. Download and install [MAMP](https://www.mamp.info/en/downloads/) 
 2. Start MAMP and start server and click Open WebStart Page
 3. on the WebStart page, click Tools then click PHPMYADMIN
