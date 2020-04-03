@@ -15,6 +15,15 @@
 <body <?php body_class(); ?>>
 	<!-- site header -->
 	<header class="site-header">
+
+		<!-- header-search -->
+
+		<div class="hd-search">
+			<?php get_search_form(); ?>
+		</div>
+                    
+        <!-- /header-search -->
+		
 		<nav class="site-nav">
 			<?php
 				$args = array(
